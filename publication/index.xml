@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on Masayoshi Mizutani</title>
+    <link>/publication/</link>
+    <description>Recent content in Publications on Masayoshi Mizutani</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0900</lastBuildDate>
+    
+	<atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>システムログ書式の構造に着目したシステム異常検出手法の検討</title>
+      <link>/publication/css2018/</link>
+      <pubDate>Sat, 22 Dec 2018 11:37:10 +0900</pubDate>
+      
+      <guid>/publication/css2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Method for estimating format of log message and computer and computer program therefor</title>
+      <link>/publication/us9858168b2/</link>
+      <pubDate>Tue, 02 Jan 2018 13:40:53 +0900</pubDate>
+      
+      <guid>/publication/us9858168b2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>IBM Tokyo SOC 情報分析レポート 2016年下半期</title>
+      <link>/publication/socreport2016_2h/</link>
+      <pubDate>Wed, 22 Mar 2017 12:41:34 +0900</pubDate>
+      
+      <guid>/publication/socreport2016_2h/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>IBM Tokyo SOC 情報分析レポート 2016年上半期</title>
+      <link>/publication/socreport2016_1h/</link>
+      <pubDate>Mon, 22 Aug 2016 12:41:34 +0900</pubDate>
+      
+      <guid>/publication/socreport2016_1h/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>IBM Tokyo SOC 情報分析レポート 2015年下半期</title>
+      <link>/publication/socreport2015_2h/</link>
+      <pubDate>Sat, 05 Mar 2016 12:41:34 +0900</pubDate>
+      
+      <guid>/publication/socreport2015_2h/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>IBM Tokyo SOC 情報分析レポート 2015年上半期</title>
+      <link>/publication/socreport2015_1h/</link>
+      <pubDate>Sat, 22 Aug 2015 12:41:34 +0900</pubDate>
+      
+      <guid>/publication/socreport2015_1h/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>IBM Tokyo SOC 情報分析レポート 2014年下半期</title>
+      <link>/publication/socreport2014_2h/</link>
+      <pubDate>Sun, 22 Mar 2015 12:41:34 +0900</pubDate>
+      
+      <guid>/publication/socreport2014_2h/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Incremental Mining of System Log Format</title>
+      <link>/publication/ccs2013/</link>
+      <pubDate>Thu, 22 Aug 2013 11:25:34 +0900</pubDate>
+      
+      <guid>/publication/ccs2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Analysis of Web Distributed Malwares and A Proposal of Their Detection Method</title>
+      <link>/publication/ipsj201910/</link>
+      <pubDate>Thu, 22 Oct 2009 11:31:43 +0900</pubDate>
+      
+      <guid>/publication/ipsj201910/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Malware Detection Method based on Communication Commonality – Implementation and Evaluation</title>
+      <link>/publication/ipsj201909/</link>
+      <pubDate>Tue, 22 Sep 2009 11:31:37 +0900</pubDate>
+      
+      <guid>/publication/ipsj201909/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Design and Implementation of Session Based IDS</title>
+      <link>/publication/ieice2005/</link>
+      <pubDate>Tue, 22 Nov 2005 11:28:57 +0900</pubDate>
+      
+      <guid>/publication/ieice2005/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

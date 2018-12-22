@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>3 on Masayoshi Mizutani</title>
+    <link>/publication_types/3/</link>
+    <description>Recent content in 3 on Masayoshi Mizutani</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sat, 22 Dec 2018 11:37:10 +0900</lastBuildDate>
+    
+	<atom:link href="/publication_types/3/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>システムログ書式の構造に着目したシステム異常検出手法の検討</title>
+      <link>/publication/css2018/</link>
+      <pubDate>Sat, 22 Dec 2018 11:37:10 +0900</pubDate>
+      
+      <guid>/publication/css2018/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
